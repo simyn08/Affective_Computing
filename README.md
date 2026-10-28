@@ -72,36 +72,11 @@
 
 ---
 
-## 3. Affective Computing Process
+## 3. Applications of Affective Computing | 감성 컴퓨팅의 활용
 
-감성 컴퓨팅의 기본적인 처리 흐름은 다음과 같이 정리할 수 있습니다.
-
-```text
-User
-  ↓
-Emotion-related Signals
-  ↓
-┌─────────────────────────────┐
-│ Facial Expression           │
-│ Voice                       │
-│ Text                        │
-│ Physiological Signals       │
-│ Behavioral Patterns         │
-└─────────────────────────────┘
-  ↓
-Emotion Recognition
-  ↓
-Emotion Interpretation
-  ↓
-Emotion State Estimation
-  ↓
-Adaptive AI Response
-  ↓
-Human–AI Interaction
-
-## 4. Applications of Affective Computing ㅣ 감성 컴퓨팅의 활용
-
-감성 컴퓨팅은 교육, 의료·돌봄, 고객 서비스, 로봇 상호작용 등 다양한 분야에서 활용됩니다.
-예를 들어 학습자의 집중도나 혼란 신호를 분석해 맞춤형 피드백을 제공하고, 상담·돌봄 영역에서는 정서 상태 변화를 모니터링해 안정적인 상호작용을 지원합니다.
-고객 서비스에서는 감정 분석을 통해 응대 톤을 조정하며, 엔터테인먼트 분야에서는 감정 기반 캐릭터 반응을 구현해 몰입감을 높입니다.
+감성 컴퓨팅은 교육, 의료·돌봄, 고객 서비스, 로봇 상호작용 등 다양한 분야에서 활용됩니다. 
+예를 들어 학습자의 집중도나 혼란 신호를 분석해 맞춤형 피드백을 제공하고, 상담·돌봄 영역에서는 정서 상태 변화를 모니터링해 안정적인 상호작용을 지원합니다. 
+고객 서비스에서는 감정 분석을 통해 응대 톤을 조정하며, 엔터테인먼트 분야에서는 감정 기반 캐릭터 반응을 구현해 몰입감을 높입니다. 
 이처럼 감성 컴퓨팅은 AI가 인간의 정서적 맥락까지 이해하고 반응하는 방향으로 발전하고 있음을 보여주는 기술입니다.
+
+# 출처 : (2025년 AI 동향과 이슈로 살펴보는) AI 시대에 꼭 알아야 할 핵심 용어 (NIA 한국지능정보사회진흥원)
